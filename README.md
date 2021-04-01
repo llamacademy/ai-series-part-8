@@ -3,8 +3,6 @@ The below video is the tutorial that **ENDS** where this project is. If you woul
 
 [![Youtube Tutorial](./Video%20Screenshot.png)](https://youtu.be/KobCxX7NZM4&ref=github)
 
-**IMMEDIATELY AFTER CHECKING THIS OUT** IMPORT THE [UNITY CHAN MODEL](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) FROM THE UNITY ASSET STORE or you will be missing the model! (it's free)
-
 In this project we have:
 1. Simple click to move.
 2. An enemy that follows the player
@@ -20,4 +18,3 @@ In this project we have:
 ## Requirements
 * Requires Unity 2019.4 LTS or higher. 
 * Utilizes the [Navmesh Components](https://github.com/Unity-Technologies/NavMeshComponents) from Unity's Github.
-* [Unity-Chan Model](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) from the Unity Asset Store (it's free)
